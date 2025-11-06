@@ -17,7 +17,6 @@ public class StockAgency implements Observer {
     public void update(String marketStatus) {
         System.out.println(name + ", receiving update" + marketStatus);
     }
-
     @Override
     public String toString() {
         return this.name;
