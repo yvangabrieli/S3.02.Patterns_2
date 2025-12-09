@@ -42,4 +42,5 @@ A `StockAgent` (**Observable**) monitors market changes (prices going up or down
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yvangabrieli/S3.02.Patterns_2
+   
    ´´´
